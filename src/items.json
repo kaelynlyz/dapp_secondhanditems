@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "name": "Color printer",
+    "picture": "images/printer.jpg",
+    "condition": "used",
+    "type": "Electrical appliance",
+    "description": "used Canon printer for claim"
+  },
+  {
+    "id": 1,
+    "name": "Shelf",
+    "picture": "images/shelf.jpg",
+    "condition": "new",
+    "type": "Furniture",
+    "description": "A curved wood bookshelf that is pretty much new"
+  },
+  {
+    "id": 2,
+    "name": "Table",
+    "picture": "images/table1.jpeg",
+    "condition": "new",
+    "type": "Furniture",
+    "description": "plastic table"
+  },
+  {
+    "id": 3,
+    "name": "Chair",
+    "picture": "images/chair1.jpg",
+    "condition": "new",
+    "type": "Furniture",
+    "description": "plastic chair"
+  },
+  {
+    "id": 4,
+    "name": "Building blocks",
+    "picture": "images/toy.jpg",
+    "condition": "used",
+    "type": "Toy",
+    "description": "a set of wooden builing blocks"
+  },
+  {
+    "id": 5,
+    "name": "Flower pot",
+    "picture": "images/pot.jpg",
+    "condition": "used",
+    "type": "Household",
+    "description": "includes the pot only"
+  },
+  {
+    "id": 6,
+    "name": "Flower pot",
+    "picture": "images/pot.jpg",
+    "condition": "used",
+    "type": "Household",
+    "description": "includes the pot only"
+  },
+  {
+    "id": 7,
+    "name": "Flower pot",
+    "picture": "images/pot.jpg",
+    "condition": "used",
+    "type": "Household",
+    "description": "includes the pot only"
+  }
+
+]
